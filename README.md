@@ -15,8 +15,8 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
    Utiliza el siguiente comando para clonar el repositorio y navegar al directorio del proyecto:
 
    ```bash
-   git clone git@github.com:quevedoagostina/Quevedo_ChallengePromises.git
-   cd Quevedo_ChallengePromises
+   git clone git@github.com:quevedoagostina/Quevedo_JSChallengeGestionEquipos.git
+   cd Quevedo_JSChallengeGestionEquipos
    ```
 
 2. **Instala las dependencias:**
