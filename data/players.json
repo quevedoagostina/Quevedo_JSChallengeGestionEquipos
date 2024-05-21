@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Juan Pérez",
+    "age": 25,
+    "position": "delantero"
+  },
+  {
+    "id": 2,
+    "name": "Mario Gómez",
+    "age": 22,
+    "position": "defensa"
+  },
+  {
+    "name": "Lucas",
+    "age": 45,
+    "position": "Defensa",
+    "id": 3
+  },
+  {
+    "name": "Messi",
+    "age": 36,
+    "position": "centrocampista",
+    "id": 4
+  }
+]
